@@ -1,5 +1,5 @@
 # Vjezba
-//*\\*//*\\
+--_--
 # testiranje gita
 # zadaca 1
 
@@ -7,3 +7,4 @@
 	# Python
 	#Docker
 	#PostreSQL
+	
