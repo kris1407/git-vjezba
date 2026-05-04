@@ -1,3 +1,4 @@
-Vjezba
+#Vjezba
 
-testiranje gita
+#testiranje gita
+#zadaca 1
