@@ -1,5 +1,5 @@
 # Vjezba
-
+--_--_--_--
 # testiranje gita
 # zadaca 1
 
